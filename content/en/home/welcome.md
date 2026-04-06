@@ -22,5 +22,6 @@ I am a data and AI entrepreneur and innovator with a long track record of workin
 
 Throughout my life, I have maintained a strong interest in various forms of art. Coming from a family of musicians and photographers, I work professionally with music and have been actively involved in photography since the age of eight. 
 
-{{< icon name="hand-point-right" pack="fas" >}} {{< staticref "./author/daniel_antal/" "newtab" >}}business card{{< /staticref >}}
+{{< icon name="hand-point-right" pack="fas" >}} {{< staticref "./author/daniel-antal/" "newtab" >}}business card{{< /staticref >}}
+
 

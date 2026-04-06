@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Daniel Antal
-name: Daniel Antal, CFA
+title: Antal Dániel
+name: Antal Dániel, CFA
 
 # Username (this should match the folder name)
 authors:
@@ -11,14 +11,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Co-founder
+role: ""
 
 # Organizations/Affiliations
 organizations:
 - name: Reprex B.V.
   url: "https://dataobservatory.eu/"
-- name:  Centre for Competition Policy
-  url: "http://competitionpolicy.ac.uk/"
 - name: IViR Institute for Information Law
   url: "https://www.ivir.nl/employee/antaldaniel/"
 
@@ -68,10 +66,6 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Team
 ---
 
 Founder of Reprex, a company dedicated to building trustworthy data and AI.

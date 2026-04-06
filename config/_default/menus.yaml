@@ -7,11 +7,15 @@ main:
   - name: About
     url: ''
     weight: 10
-    identifier: Reprex
-  - name: About Reprex
+    identifier: about
+  - name: Personal
+    url: ../author/daniel-antal/
+    weight: 11
+    parent: about
+  - name: Reprex
     url: ../author/reprex/
     weight: 11
-    parent: Reprex
+    parent: about
   - name: Accomplishments
     url: '#accomplishments'
     weight: 12

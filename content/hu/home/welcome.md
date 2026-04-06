@@ -18,7 +18,7 @@ design:
 
 <br>
 
-Antal Dániel
+Antal Dániel személyes honlapja.
 
-{{< icon name="hand-point-right" pack="fas" >}} {{< staticref "./author/daniel_antal/" "newtab" >}}business card{{< /staticref >}}
+{{< icon name="hand-point-right" pack="fas" >}} {{< staticref "./authors/daniel_antal/" "newtab" >}}business card{{< /staticref >}}
 
