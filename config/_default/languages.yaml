@@ -1,0 +1,77 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language
+en:
+  languageCode: en-us
+  contentDir: content/en
+
+# Uncomment the lines below to configure your website in a second language.
+hu:
+  languageCode: hu
+  contentDir: content/hu
+  title: Antal Dániel honlapja
+  params:
+    description: Antal Dániel személyes honlapja.
+  menu:
+    main:
+    - name: About
+      url: ''
+      weight: 10
+      identifier: Reprex
+    - name: About Reprex
+      url: ../author/reprex/
+      weight: 11
+      parent: Reprex
+    - name: Accomplishments
+      url: '#accomplishments'
+      weight: 12
+      parent: Reprex
+    - name: News
+      url: post
+      weight: 20
+      name: Blog
+    - name: Hírek
+      url: post
+      weight: 21
+      parent: Blog
+    - name: Our Topics
+      url: /#tags
+      weight: 22
+      parent: Blog
+    - name: Portfólió
+      url: /#portfolio
+      weight: 40
+    - name: Publikációk
+      url: publication
+      weight: 80
+      identifier: Publications
+    - name: Kiemelt
+      url: '#featured'
+      weight: 70
+      identifier: Publications
+    - name: Blog
+      url: /post/
+      weight: 71
+      parent: Publications
+    - name: Featured
+      url: '#featured'
+      weight: 72
+      parent: Publications
+    - name: All Publications
+      url: publication
+      weight: 73
+      parent: Publications
+    - name: Kapcsolat és találkozók
+      url: '#contact'
+      weight: 90
+      identifier: Kapcsolat
+    - name: Kapcsolatfelvétel
+      url: '/contact'
+      weight: 90
+      parent: Kapcsolat
+    - name: Nyilvános előadások
+      url: '#talks'
+      weight: 92
+      parent: Kapcsolat
