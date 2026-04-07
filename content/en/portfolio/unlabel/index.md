@@ -10,7 +10,7 @@ lastmod = 2026-03-31T08:15:00+02:00
 summary = "Connecting local bands with local fans, joining scenes across the globe."
 
 # Tags: can be used for filtering projects.
-tags = ["listen-local", "unlabel", "muisc", "latvia", "livs"]
+tags = ["listen-local", "unlabel", "music", "latvia", "livs"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -43,8 +43,6 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
-
-
 
 Unlabel is a concept and pilot developed within the Open Music Europe framework that explores how under-documented, culturally valuable music can be made visible, usable, and distributable in the digital ecosystem. It addresses a structural problem identified across European music systems: large volumes of repertoire remain “invisible” because rights, metadata, and attribution are incomplete or inconsistent .
 
