@@ -6,25 +6,22 @@ subtitle: "A konstruktív párbeszéd terei - a socially engaged public art prog
 date: 2026-03-21T00:00:00
 
 # Project summary to display on homepage.
-summary: "An av"
+summary:  "An early experiment in socially engaged public art, creating dialogue between artistic practice and public life through collaborative, multi-stakeholder cultural interventions."
 
 # Tags: can be used for filtering projects.
 tags: ["public art", "Hungary", "inclusion"]
 
-authors: ["danieal_antal"]
+authors: ["daniel_antal"]
+
 links:
-- icon: database
-  icon_pack: fas
-  name: TextileBase
-  url: https://reprexbase.eu/textilebase/index.php?title=Main_Page
-- icon: z
+- icon: K
   icon_pack: fab
-  name: Zenodo Community
-  url: https://zenodo.org/communities/textilebase/
-- icon: linkedin
+  name: Koronczi Csettegő
+  url: http://www.koronczi.hu/csettego/
+- icon: T
   icon_pack: fab
-  name: Reprex
-  url: https://www.linkedin.com/company/68855596/
+  name: Technika Schwitz
+  url: https://www.ludwigmuseum.hu/mutargy/ingazo-tuzerek-i-viii
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -55,13 +52,21 @@ and long-term cultural positioning—principles that have remained central in my
 
 A decade after the project, several of the participants went on to establish
 themselves as significant figures in the cultural field, developing independent
-artistic practices and contributing to international exhibitions and curatorial platforms.
-For example, curator Barnabás Bencsik later became the director of the Ludwig Museum,
-Endre Koronczi one of the most respected and socially engaged creative artists of
-Hungary, the young photographer Gergő László founded Lumen, which remains an iconic
-cultural location in Budapest, and Samu Szemery, co-curator of the architectural interventions
-on the branch lines of Nógrád County railways, became one of the founders of Hungary's
-Contemporary Architecture Centre. I remain grateful for their enthusiastic participation,
+artistic practices and contributing to international exhibitions and curatorial
+platforms. For example, curator Barnabás Bencsik later became the director of
+the Ludwig Museum, Endre Koronczi one of the most respected and socially engaged
+creative artists of Hungary, the young photographer Gergő László founded Lumen,
+which remains an iconic cultural location in Budapest, and became an established
+artist at [Technica Schweitz](https://tehnicaschweiz.com/). Their first credited
+work is the result of our collaboration.
+
+[![Technica Schweitz: Ingázó tüzérek I-VIII (2006), in the permanent collection
+of Ludwig
+Museum.](https://www.ludwigmuseum.hu/system/files/styles/gallery_image_lg/private/mplus/multimedia/2017/10/Tehnica_sweiz_j.jpg?itok=RmMqhNp-)](https://www.ludwigmuseum.hu/mutargy/ingazo-tuzerek-i-viii)
+
+Samu Szemery, co-curator of the architectural interventions on the branch lines
+of Nógrád County railways, became one of the founders of Hungary's Contemporary
+Architecture Centre. I remain grateful for their enthusiastic participation,
 bravery, and friendship.
 
 For me, this work marks a formative moment: an early prototype of the ecosystem

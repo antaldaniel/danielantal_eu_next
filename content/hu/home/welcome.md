@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: Antal Dániel személyes honlapja
-hero_media: png/reprex/Reprex_summary_with_text_white_narrower_sq.png
+hero_media: jpg/daniel_antal/DSC_5018_small.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -18,7 +18,15 @@ design:
 
 <br>
 
-Antal Dániel személyes honlapja.
+Adatokkal, mesterséges intelligenciával foglalkozó vállalkozó és innovátor vagyok, 
+hosszú ideje a kulturális szektor és a kreatív iparágak területén.
+A professzionális munkámról és tudományos kutatás-fejlesztési eredményeimről a
+Reprex honlapján olvashatsz.
 
-{{< icon name="hand-point-right" pack="fas" >}} {{< staticref "./authors/daniel_antal/" "newtab" >}}business card{{< /staticref >}}
+Egész életemben érdekelt a magyar nyelv, kultúra és a művészetek. Ilyen beállítottságú
+családi hátterem miatt nyolc éves korom óta fotózok aktívan. A művészeti, 
+kulturális projektjeim ezen a személyes oldalon találhatók meg.
+
+
+{{< icon name="hand-point-right" pack="fas" >}} {{< staticref "./authors/daniel_antal/" "newtab" >}}névjegyem{{< /staticref >}}
 

@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: Daniel Antal's personal website
-hero_media: png/reprex/Reprex_summary_with_text_white_narrower_sq.png
+hero_media: jpg/daniel_antal/DSC_5018_small.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'

@@ -44,18 +44,16 @@ editor_options:
     wrap: 72
 ---
 
-The Udmurt Historical Photographs Collection is a growing, open, and linked collection of dispersed historical photographs of Udmurt people and places in Udmurtia. We bring together relevant photographs (or their digital surrogates) and aim to place them under the care of the Udmurt community and researchers of Udmurt cultural history.
+The `Udmurt Historical Photographs Collection` is a growing, open, and linked collection of dispersed historical photographs of Udmurt people and places in Udmurtia. We bring together relevant photographs (or their digital surrogates) and aim to place them under the care of the Udmurt community and researchers of Udmurt cultural history.
 
 Our goal is to identify relevant photographs and provenance information in Estonian, Finnish, Hungarian, and other collections, and to validate, enrich, or repair this knowledge with the contribution of Udmurt communities.
 
-{{< figure src="/media/webp/udmurts/Unknown_Udmurt_woman_backside.webp" title="More" >}}
+{{< figure src="/media/webp/udmurts/Unknown_Udmurt_woman_backside.webp" title="Read [more](https://finnougric.substack.com/p/lost-in-translation-found-in-a-photograph) about how we started to reach out to the community." >}}
 
 For example, the reverse side of one photograph contains a difficult-to-decipher location (“Gombur-Gurt” and “Medemuka”) written in phonetic German transliteration. The image, labeled simply as “Udmurt woman,” belongs to a series in the photographic collection of the Estonian National Museum, where provenance is limited and some elements were removed in the 1950s by Soviet censorship.
 
 Can we identify who this woman was? Where the series was taken? Who the photographer was? And can we locate missing images from the same series in other collections?
 
 Answering these questions requires knowledge of the Udmurt language and historical cartography. Solving such cases can clarify the provenance of individual photographs and help recover dispersed or lost materials. Our collaborative work with Wikimedia Hungary and Udmurt communities demonstrates how this process can be carried out.
-
-Short summary
 
 

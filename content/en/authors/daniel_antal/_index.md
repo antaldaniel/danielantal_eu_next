@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: ""
+role: "Data and AI entrepreneur working with cultural data, with a life-long passion for photography."
 
 # Organizations/Affiliations
 organizations:
@@ -63,17 +63,15 @@ social:
 #   link: files/cv.pdf
 
 user_groups:
-    - personal
+  - personal
 ---
 
-Founder of Reprex, a company dedicated to building trustworthy data and AI.
+I work at the intersection of culture, data, and technology.
 
-I have been writing code since childhood, learned the early foundations of AI in the last century, and today I advise C-level executives on navigating modern AI challenges. His focus: transforming messy, incomplete, or biased data into a reliable foundation—because without clean data, even the best algorithms fail.
+This site brings together my interests in photography, cultural heritage, and open knowledge. For my professional work in data and AI, please visit [Reprex](https://reprex.nl/).
 
-Across Europe, whether on stage at AI conferences, in boardrooms, or at hackathons, he shares practical insights on how organizations can create real value with AI.
+{{< icon name="user" pack="fas" >}} Read more {{< staticref "/authors/daniel_antal/" "newtab" >}}about me{{< /staticref >}}.
 
-👉 If your algorithm doesn’t have clean data, [Reprex](https://reprex.nl/) can fix it—or find the right data for you.
+{{< icon name="comments" pack="fas" >}} Meet me at {{< staticref "/#talks" "newtab" >}}conferences and meetups{{< /staticref >}}.
 
-{{< icon name="comments" pack="fas" >}} Meet me on professional {{< staticref "/#talks" "newtab" >}} conferences and meetups {{< /staticref >}}.  
-
-{{< icon name="phone" pack="fas" >}}  Contact {{< staticref "/#contact" "newtab" >}}me{{< /staticref >}}.  
+{{< icon name="phone" pack="fas" >}} Contact {{< staticref "/#contact" "newtab" >}}me{{< /staticref >}}.
