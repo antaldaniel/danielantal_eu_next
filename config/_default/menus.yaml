@@ -61,11 +61,11 @@ main:
     url: '#contact'
     weight: 90
     identifier: Contact
-  - name: Get in touch
+  - name: Contact form
     url: '/contact'
     weight: 90
     parent: Contact
   - name: Public talks
-    url: '#events'
+    url: '#talks'
     weight: 92
     parent: Contact
