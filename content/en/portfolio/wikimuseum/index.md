@@ -66,12 +66,10 @@ Built primarily on ERM collections and complemented by Finnish and Wikimedia
 Commons materials, this exhibition provides accessible interpretation in 
 Estonian, Hungarian, English, Russian, and Meadow Mari, reconnecting dispersed 
 heritage with both international audiences and Mari communities. Visit the 
-exhibition on Wikimedia Eesti's [GLAM page]().
+exhibition on Wikimedia Eesti's GLAM page:
 
 <td style="text-align: center;">
-
-{{< figure src="media\jpg\wikimuseum\traditional-mari-clothing-wide.jpg" caption="Visit the [exhibition](https://et.wikipedia.org/wiki/Vikipeedia:GLAM/Traditional_Mari_Clothing_in_the_Collection_of_the_Estonian_National_Museum/Introduction)" numbered="false" >}}
-
+{{< figure src="jpg\wikimuseum\traditional-mari-clothing-wide.jpg" caption="Visit the [exhibition](https://et.wikipedia.org/wiki/Vikipeedia:GLAM/Traditional_Mari_Clothing_in_the_Collection_of_the_Estonian_National_Museum/Introduction)" numbered="false" >}}
 </td>
 
 

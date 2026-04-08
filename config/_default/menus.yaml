@@ -49,7 +49,7 @@ main:
     url: /post/
     weight: 71
     parent: Publications
-  - name: Featured
+  - name: Scholarly & Technical
     url: '#featured'
     weight: 72
     parent: Publications

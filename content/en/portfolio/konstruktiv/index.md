@@ -53,9 +53,9 @@ and long-term cultural positioning—principles that have remained central in my
 A decade after the project, several of the participants went on to establish
 themselves as significant figures in the cultural field, developing independent
 artistic practices and contributing to international exhibitions and curatorial
-platforms. For example, curator Barnabás Bencsik later became the director of
-the Ludwig Museum, Endre Koronczi one of the most respected and socially engaged
-creative artists of Hungary, the young photographer Gergő László founded Lumen,
+platforms. For example, curator _Barnabás Bencsik_ later became the director of
+the Ludwig Museum, _Endre Koronczi_ one of the most respected and socially engaged
+creative artists of Hungary, the young photographer _Gergely László_ founded Lumen,
 which remains an iconic cultural location in Budapest, and became an established
 artist at [Technica Schweitz](https://tehnicaschweiz.com/). Their first credited
 work is the result of our collaboration.

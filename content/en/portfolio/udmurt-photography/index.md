@@ -17,6 +17,7 @@ external_link: ""
 slides: ""
 
 authors: ["danieal_antal"]
+
 links:
 - icon: laptop
   icon_pack: fas
@@ -38,7 +39,9 @@ image:
   caption: "Wikimedia Commons access point"
   focal_point: "Center"
   preview_only: false
-slides: intro-textilebase
+
+slides: ""
+
 editor_options: 
   markdown: 
     wrap: 72
@@ -53,6 +56,8 @@ Our goal is to identify relevant photographs and provenance information in Eston
 For example, the reverse side of one photograph contains a difficult-to-decipher location (“Gombur-Gurt” and “Medemuka”) written in phonetic German transliteration. The image, labeled simply as “Udmurt woman,” belongs to a series in the photographic collection of the Estonian National Museum, where provenance is limited and some elements were removed in the 1950s by Soviet censorship.
 
 Can we identify who this woman was? Where the series was taken? Who the photographer was? And can we locate missing images from the same series in other collections?
+
+{{% cta cta_text="Filter: Udmurt Historical Photographs Collection" cta_link="https://finnougric.net/en/photos/faceted-search/table?page=0" %}}
 
 Answering these questions requires knowledge of the Udmurt language and historical cartography. Solving such cases can clarify the provenance of individual photographs and help recover dispersed or lost materials. Our collaborative work with Wikimedia Hungary and Udmurt communities demonstrates how this process can be carried out.
 

@@ -1,51 +1,45 @@
-+++
+---
 # Project title.
-title = "Főfotó"
-subtitle = "Locating, re-discovering, preserving and opening a large lost collection in Fortepan"
+title: "Fortepan & Főfotó"
+subtitle: "Locating, re-discovering, preserving and opening a large lost collection in Fortepan"
 
 # Date this page was created.
-date = 2026-02-13T00:00:00
+date: 2026-02-13T00:00:00
 
 # Project summary to display on homepage.
-summary = "Fortepan is a privately run photography archive that has become a key institution of Hungary’s visual memory. As a long-time contributor, I played a central role in identifying and recovering the long-lost Főfotó negative archive—one of the largest photographic collections of socialist-era Hungary. Through research, provenance clarification, and collaboration with Fortepan and public archives, approximately 400,000 negatives were reintegrated into the public domain, demonstrating how dispersed photographic heritage can be reconstructed and reconnected to institutional memory."
+summary: "Fortepan is a privately run photography archive that has become a key 
+institution of Hungary’s visual memory. As a long-time contributor, I played a 
+central role in identifying and recovering the long-lost Főfotó negative 
+archive—one of the largest photographic collections of socialist-era Hungary. Through research, provenance clarification, and collaboration with Fortepan and public archives, approximately 400,000 negatives were reintegrated into the public domain, demonstrating how dispersed photographic heritage can be reconstructed and reconnected to institutional memory."
 
 # Tags: can be used for filtering projects.
-tags = ["fortepan", "photography", "archives", "preservation"]
+tags: ["fortepan", "photography", "archives", "preservation", "collections"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link: ""
 
 # Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+#   Otherwise, set `slides: ""`.
+slides: ""
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/antaldaniel"}]
+url_pdf: ""
+url_slides: ""
+url_video: ""
+url_code: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-+++
+image:
+  caption: ""
+  focal_point: "Smart"
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+---
 
 
-Fortepan is not only an open, privately run photography archive, but has effectively become a Hungarian national institution. Originally built from rescued negatives found during informal “spring-cleaning” discoveries, it has grown into a subjectively curated yet widely used visual memory of Hungary before 1989. Still operated by a civil society organisation, Fortepan today collaborates with major institutions, contributes to exhibitions and publications, and increasingly serves as a repository for private and institutional photographic collections.
+**Fortepan** is not only an open, privately run photography archive, but has effectively become a Hungarian national institution. Originally built from rescued negatives found during informal “spring-cleaning” discoveries, it has grown into a subjectively curated yet widely used visual memory of Hungary before 1989. Still operated by a civil society organisation, Fortepan today collaborates with major institutions, contributes to exhibitions and publications, and increasingly serves as a repository for private and institutional photographic collections.
+
+{{% cta cta_text="Browse personal donations" cta_link="https://fortepan.hu/en/photos/?donor=Antal%20D%C3%A1niel" %}}
 
 I have been involved with Fortepan as a user, volunteer, and donor for many years. 
 My most significant contribution was the localisation and recovery of the 
@@ -54,6 +48,10 @@ enterprise created after the nationalisation of private studios in
 socialist Hungary. This organisation documented architecture, industry, 
 public life, and everyday scenes, but its archive disappeared during the 
 transition of the 1990s.
+
+{{< figure library="true" src="/png/photography/fortepan_föfoto_search_2x1.png" 
+title="[Browse](https://fortepan.hu/en/photos/?q=F%C5%91fot%C3%B3) the published, curated photographs from this recovered collection." >}}
+
 
 Through collecting and analysing historical negatives acquired on the art market, 
 I identified traces of this lost archive and, together with Fortepan, 
@@ -86,4 +84,5 @@ lifecycle of collections—how they are created, lost, rediscovered, and
 reinterpreted—and in the role that individuals and civic initiatives can 
 play in preserving cultural memory.
 
-
+{{< figure library="true" src="/png/photography/fortepan_föfoto_search_2x1.png" 
+title="[Browse](https://fortepan.hu/en/photos/?q=F%C5%91fot%C3%B3) the published, curated photographs from this recovered collection." >}}

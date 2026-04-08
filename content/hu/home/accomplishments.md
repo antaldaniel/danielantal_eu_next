@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 'Accomplish&shy;ments'
+title: 'Profesional Accomplish&shy;ments'
 subtitle:
 
 # Date format for experience
@@ -26,20 +26,12 @@ experience:
     company_logo: textilebase
     date_start: '2024-09-01'
     description: "TextileBase links museum, archive, and research records on garments into a multilingual knowledge graph to support dress history, cultural heritage, and sustainable fashion."
-  - title: FUDSS
+  - title: Finno-Ugric Data Sharing Space
     company: Reprex
     company_url: ../observatories/finno-ugric/
     company_logo: FUDSS_logo
     date_start: '2025-03-06'
     description: "We built the Finno-Ugric Data Sharing Space as a federated platform that solves some of the hardest data challenges — linking scattered, multilingual, public and private collections while respecting local knowledge and legal frameworks. By stress-testing our methods in this complex cultural setting, we developed tools directly applicable to equally difficult business data problems across borders and industries."    
-  - title: Smart Policy Documents Monitor National Policy
-    company: Slovak Ministry of Culture
-    company_url: ../post/2023-03-06_reprex-opa/
-    company_logo: crz
-    location: Bratislava, Slovakia
-    date_start: '2023-03-06'
-    date_end: '2025-12-31'
-    description: 'Reprex’s Smart Policy Documents technology will be used to monitor the national cultural and creative industry policies of the Slovak Republic.'
   - title: Finalist, Winner of Audience Prize
     company: The Hague Innovators Challenge 2022
     company_url: ../post/2022-11-15-reprex-hague-innovators-award/
@@ -74,15 +66,6 @@ experience:
     date_end: '2023-04-01'
     description: 'With our Digital Music Observatory and Listen Local we are partners in finding potential adverse outcomes of AI-driven, autonomous music recommendation systems on market competition.'
     
-  - title: Cultural Creative Sectors Industries Data Observatory
-    company: University of Amsterdam
-    company_url: 'https://www.ivir.nl/projects/cultural-creative-sectors-and-industries-data-observatory/'
-    company_logo: ivir-logo
-    location: Amsterdam, Netherlands
-    date_start: '2021-10-01'
-    date_end: ''
-    description: 'A first replication and extension attempt of our beachhead product, the Digital Music Observatory to serve the film, fashion, book, design, gaming industries.'
-   
   - title: Listen Local Slovakia Demo App & Feasibility Study
     company: Slovak Arts Council & SOZA
     company_url: ''
