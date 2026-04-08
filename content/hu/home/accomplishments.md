@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 'Profesional Accomplish&shy;ments'
+title: 'Eredmények'
 subtitle:
 
 # Date format for experience
@@ -47,7 +47,7 @@ experience:
     location: Berlin, Germany
     date_start: '2022-07-23'
     date_end: '2025-12-31'
-    description: 'We initiated a Horizon Europe Research and Innovation action to launch our research automation tools from data collection to dissemination for scientific, business and policy partners.'
+    description: 'Egy Horizon Europe Research and Innovation Action projekt kezdeményezése.'
   - title: Eviota
     company: Inova+ & European Music Council
     company_url: 'https://musicaire.eu/2022/07/12/final-list-of-awarded-projects/'

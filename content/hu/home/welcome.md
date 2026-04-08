@@ -16,17 +16,15 @@ design:
   css_class:
 ---
 
-<br>
-
 Adatokkal, mesterséges intelligenciával foglalkozó vállalkozó és innovátor vagyok, 
 hosszú ideje a kulturális szektor és a kreatív iparágak területén.
 A professzionális munkámról és tudományos kutatás-fejlesztési eredményeimről a
-Reprex honlapján olvashatsz.
+[Reprex](https://reprex.nl/) honlapján olvashatsz.
 
 Egész életemben érdekelt a magyar nyelv, kultúra és a művészetek. Ilyen beállítottságú
 családi hátterem miatt nyolc éves korom óta fotózok aktívan. A művészeti, 
 kulturális projektjeim ezen a személyes oldalon találhatók meg.
 
 
-{{< icon name="hand-point-right" pack="fas" >}} {{< staticref "./authors/daniel_antal/" "newtab" >}}névjegyem{{< /staticref >}}
-
+{{< icon name="arrow-down" pack="fas" >}} {{< staticref "#portfolio" "newtab" >}}portfólió{{< /staticref >}} {{< icon name="external-link" pack="fas" >}}  {{< staticref "./author/daniel-antal/" "newtab" >}}névjegy{{< /staticref >}} 
+ 

@@ -6,7 +6,7 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: Daniel Antal's personal website
+title: ''
 hero_media: jpg/daniel_antal/DSC_5018_small.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -16,12 +16,11 @@ design:
   css_class:
 ---
 
-<br>
 
-I am a data and AI entrepreneur and innovator with a long track record of working with the cultural sector and creative industries. You can read more about my professional work and related scientific R&D activities on the Reprex website.
+I am a data and AI entrepreneur and innovator with a long track record of working with the cultural sector and creative industries. Professional work and related scientific R&D activities on the [Reprex](https://reprex.nl/) website.
 
-Throughout my life, I have maintained a strong interest in various forms of art. Coming from a family of musicians and photographers, I work professionally with music and have been actively involved in photography since the age of eight. 
-
-{{< icon name="hand-point-right" pack="fas" >}} {{< staticref "./author/daniel-antal/" "newtab" >}}business card{{< /staticref >}}
-
+Coming from a family of musicians and photographers, I work with music and have been actively involved in photography since the age of eight. Scroll down for select non-business projects.
+ 
+{{< icon name="arrow-down" pack="fas" >}} {{< staticref "#portfolio" "newtab" >}}portfolio{{< /staticref >}} {{< icon name="external-link" pack="fas" >}}  {{< staticref "./author/daniel-antal/" "newtab" >}}bio{{< /staticref >}} 
+ 
 
