@@ -8,3 +8,4 @@ public/
 resources/_gen/images
 reprex.Rproj
 .positai
+.Rprofile

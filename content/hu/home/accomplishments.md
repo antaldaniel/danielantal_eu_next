@@ -20,6 +20,12 @@ date_format: Jan 2006
 # Experiences.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Mafot
+    company: Magyar Fotótörténeti Társaság
+    company_logo: mafot_logo
+    date_start: '2026-05-19'
+    company_url: https://mafot.hu/
+    description: "A Magyar Fotótörténeti Társaság tagja lettem."
   - title: TextileBase
     company: Reprex
     company_url: ../observatories/textilebase/
@@ -55,7 +61,7 @@ experience:
     location: Brussels, Belgium
     date_start: '2022-07-01'
     date_end: '2023-02-28'
-    description: Awarded project in the Green Recovery section of MusicAire.
+    description: A MusicAire program Zöld helyreállítás szekciójában.
     
   - title: Trustworthy AI Systems Hub
     company: Competition Policy Centre, University of East Anglia & partners

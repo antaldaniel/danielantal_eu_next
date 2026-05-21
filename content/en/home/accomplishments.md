@@ -20,6 +20,12 @@ date_format: Jan 2006
 # Experiences.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Mafot
+    company: Hungarian Society for the History of Photography
+    company_logo: mafot_logo
+    date_start: '2026-05-19'
+    company_url: https://mafot.hu/
+    description: "I became a member of the primary professional organization dedicated to researching, preserving, and canonizing the photographic heritage of Hungary"
   - title: TextileBase
     company: Reprex
     company_url: ../observatories/textilebase/

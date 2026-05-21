@@ -7,7 +7,7 @@ categories:
 event: Pont Fordítva
 event_url: 
 
-location: ELTE BTK
+location: ELTE BTK, "A" épület, Dékáni Kistanácsterem (1. emelet 144.)
 address:
   city: Budapest
   street: Múzeum krt. 4/A
@@ -23,8 +23,8 @@ Using the Finno-Ugric Data Sharing Space (FUDSS), the talk demonstrates how mult
 The lecture also shows how dispersed research legacies — for example those of János Jankó or Aladár Bán across Hungarian, Estonian, and Finnish collections — can be virtually reunited through interoperable knowledge graph infrastructures and multilingual metadata harmonisation. Particular emphasis is placed on the role of machine-readable vocabularies, thesauri, and linked identifiers in supporting both scholarly research and community-led interpretation of cultural heritage."
 
 # Talk start and end times.
-date: '2026-05-27T14:30:00+02:00'
-date_end: '2026-05-27T17:30:00+02:00'
+date: '2026-05-27T14:00:00+02:00'
+date_end: '2026-05-27T18:00:00+02:00'
 all_day: false
 
 # Schedule page publish date
