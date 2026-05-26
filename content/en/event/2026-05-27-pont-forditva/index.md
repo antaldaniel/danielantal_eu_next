@@ -28,7 +28,7 @@ date_end: '2026-05-27T18:00:00+02:00'
 all_day: false
 
 # Schedule page publish date
-publishDate: '2025-05-131T16:00:00'
+publishDate: '2026-05-131T16:00:00'
 
 
 authors: ["daniel_antal"]
