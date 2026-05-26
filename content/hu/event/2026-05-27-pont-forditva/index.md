@@ -2,10 +2,10 @@
 title: "Fordítástól a metaadat-javításig: a finnugor rokon népek örökségeinek archívumi láthatósága egy többnyelvű tudásgráfban"
 subtitle: "Pont Fordítva konferencia"
 projects: []
-categories:
+categories: magyarul
 
-event: Pont Fordítva
-event_url: https://mikti.elte.hu/content/leveltari-forrasok-a-forditas-es-forditotorteneti-kutatasban.e.7515
+event: "Pont Fordítva: Levéltári források a fordítás- és fordítótörténeti kutatásban"
+event_url: https://mikti.elte.hu/content/leveltari-forrasok-a-forditas-es-forditotorteneti-kutatasba.e.7515
 
 location: ELTE BTK, "A" épület, Dékáni Kistanácsterem (1. emelet 144.)
 address:
@@ -24,7 +24,7 @@ date_end: '2026-05-27T18:00:00+02:00'
 all_day: false
 
 # Schedule page publish date
-publishDate: '2025-05-131T16:00:00'
+publishDate: '2025-05-13T16:00:00'
 
 
 authors: ["daniel_antal"]

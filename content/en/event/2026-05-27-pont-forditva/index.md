@@ -2,12 +2,12 @@
 title: "From Translation to Metadata Repair: Archival Visibility of Finno-Ugric Heritage in a Multilingual Knowledge Graph"
 subtitle: "Translation, multilingual metadata, and Wikibase-based knowledge infrastructures for reconnecting dispersed cultural heritage collections"
 projects: []
-categories:
+categories: magyarul
 
-event: Pont Fordítva
-event_url: 
+event: "Pont Fordítva: Levéltári források a fordítás- és fordítótörténeti kutatásban"
+event_url: https://mikti.elte.hu/content/leveltari-forrasok-a-forditas-es-forditotorteneti-kutatasba.e.7515
 
-location: ELTE BTK, "A" épület, Dékáni Kistanácsterem (1. emelet 144.)
+location: 'ELTE BTK, "A" épület, Dékáni Kistanácsterem (1. emelet 144.)'
 address:
   city: Budapest
   street: Múzeum krt. 4/A
@@ -28,7 +28,7 @@ date_end: '2026-05-27T18:00:00+02:00'
 all_day: false
 
 # Schedule page publish date
-publishDate: '2026-05-131T16:00:00'
+publishDate: '2026-05-13T16:00:00'
 
 
 authors: ["daniel_antal"]
@@ -48,14 +48,14 @@ url_slides: ''
 url_video: ''
 
 links:
-- icon: linkedin
-  icon_pack: fab
+- icon: globe
+  icon_pack: fas
   name: finnougric.net
-  url: https://www.linkedin.com/company/79286750/
+  url: https://finnougric.net/en/
 - icon: w
   icon_pack: fas
   name: Finno-Ugric Data Sharing Space
-  url: https://www.wikidata.org/wiki/Event:WikidataCon_2025
+  url: https://reprexbase.eu/fu/index.php?title=Main_Page
 
 # Markdown Slides (optional).
 slides: ""
