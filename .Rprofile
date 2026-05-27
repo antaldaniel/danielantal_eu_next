@@ -19,5 +19,5 @@ options(
   blogdown.method = 'markdown'
 )
 
-# fix Hugo version
-options(blogdown.hugo.version = "0.122.0")
+# fix Hugo version, same as Netlify
+options(blogdown.hugo.version = "0.97.3")

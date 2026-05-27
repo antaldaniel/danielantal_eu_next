@@ -35,22 +35,37 @@ A diák **teljes képernyő** nézetben a legáttekinthetőbbek:</br> Ⓕ billen
 {{< slide background-image="D_Antal_Pont_forditva_03.png" background-position="top">}}
 
 ---
+
 {{< slide background-image="D_Antal_Pont_forditva_04.png" background-position="top">}}
+
 ---
 
 {{< slide background-image="D_Antal_Pont_forditva_05.png" background-position="top">}}
 
 ---
+
 {{< slide background-image="D_Antal_Pont_forditva_06.png" background-position="top">}}
+
 ---
 
 {{< slide background-image="D_Antal_Pont_forditva_07.png" background-position="top">}}
 
 ---
+
 {{< slide background-image="D_Antal_Pont_forditva_08.png" background-position="top">}}
+
 ---
 
 {{< slide background-image="D_Antal_Pont_forditva_09.png" background-position="top">}}
 
 ---
+
 {{< slide background-image="D_Antal_Pont_forditva_10.png" background-position="top">}}
+
+---
+
+{{< slide background-image="D_Antal_Pont_forditva_11.png" background-position="top">}}
+
+---
+
+{{< slide background-image="D_Antal_Pont_forditva_12.png" background-position="top">}}
