@@ -59,7 +59,7 @@ links:
 - icon: slideshare
   icon_pack: fab
   name: Slides (in Hungarian)
-  url: danielantal.hu/hu/slides/20260525_pont_forditva/
+  url: https://danielantal.eu/hu/slides/20260525_pont_forditva/
 
 # Markdown Slides (optional).
 slides: "20260525_pont_forditva"
