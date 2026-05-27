@@ -16,7 +16,7 @@ address:
 
 summary: "Előadásom azt vizsgálja, hogy a többnyelvű tudásgráfok, a metaadatok helyreállítása és a fordítási munkafolyamatok hogyan tudják újra összekapcsolni a szétszórt finnugor kulturális örökségi gyűjteményeket a mai közösségekkel és kutatókkal"
 
-abstract: " „Az előadás az észt, magyar és finn finnugor gyűjteményekből vett példák alapján vizsgálja az archív anyagok láthatóságát, fordítását és a metaadatok helyreállítását. Számos mari, szeto, võro, udmurt és moldáv csángó anyag több mint egy évszázada került múzeumi és archív gyűjteményekbe, olyan következetlen nyelvi szabványok, fonetikai átírások és egynyelvű katalogizálási gyakorlatok alkalmazásával, amelyeket ma már gyakran nehéz értelmezni, még a szakértők vagy maguk a forrásul szolgáló közösségek számára is."
+abstract: "Az előadás az észt, magyar és finn finnugor gyűjteményekből vett példák alapján vizsgálja az archív anyagok láthatóságát, fordítását és a metaadatok helyreállítását. Számos mari, szeto, võro, udmurt és moldáv csángó anyag több mint egy évszázada került múzeumi és archív gyűjteményekbe, olyan következetlen nyelvi szabványok, fonetikai átírások és egynyelvű katalogizálási gyakorlatok alkalmazásával, amelyeket ma már gyakran nehéz értelmezni, még a szakértők vagy maguk a forrásul szolgáló közösségek számára is."
 
 # Talk start and end times.
 date: '2026-05-27T14:00:00+02:00'
@@ -52,6 +52,10 @@ links:
   icon_pack: fas
   name: Finnugor Adatmegosztási Tér
   url: https://www.wikidata.org/wiki/Event:WikidataCon_2025
+- icon: slideshare
+  icon_pack: fab
+  name: Slides (in Hungarian)
+  url: danielantal.hu/hu/slides/20260525_pont_forditva/
 
 # Markdown Slides (optional).
 slides: ""
@@ -94,7 +98,7 @@ _Kávészünet_
 
 - Szőts Zoltán Oszkár (Magyar Műszaki és Közlekedési Múzeum): Űrkutató, aviatikus és műszaki szótárak szerkesztője – Nagy Ernő hagyatéka a Magyar Műszaki és Közlekedési Múzeum archívumában
 
-- Antal Dániel (Reprex & Amszterdami Egyetem): Fordítástól a metaadat-javításig: a finnugor rokon népek örökségeinek archívumi láthatósága egy többnyelvű tudásgráfban
+- Antal Dániel (Reprex): Fordítástól a metaadat-javításig: a finnugor rokon népek örökségeinek archívumi láthatósága egy többnyelvű tudásgráfban
 
 _Vita_
 

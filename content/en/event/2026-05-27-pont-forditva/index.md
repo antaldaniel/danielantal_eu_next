@@ -56,9 +56,13 @@ links:
   icon_pack: fas
   name: Finno-Ugric Data Sharing Space
   url: https://reprexbase.eu/fu/index.php?title=Main_Page
+- icon: slideshare
+  icon_pack: fab
+  name: Slides (in Hungarian)
+  url: danielantal.hu/hu/slides/20260525_pont_forditva/
 
 # Markdown Slides (optional).
-slides: ""
+slides: "20260525_pont_forditva"
 ---
 
 {{% callout note %}} 
@@ -72,6 +76,8 @@ Using the Finno-Ugric Data Sharing Space, the talk demonstrates how Wikibase-bas
 - **Metadata enrichment:** multilingual thesauri, controlled vocabularies, and linked identifiers make fragmented collections searchable and reusable.
 - **Community participation:** endangered language communities can help interpret, validate, and correct historical archival descriptions.
 - **Knowledge graph federation:** dispersed collections across museums, libraries, and archives can be virtually reunited through interoperable infrastructures.
+
+The presentation slides are available only [in Hungarian](20260525_pont_forditva).
 
 ### Examples
 - The **Finno-Ugric Data Sharing Space** connects materials related to Mari, Seto, Võro, Udmurt, and Moldavian Csángó communities across multiple institutional collections.

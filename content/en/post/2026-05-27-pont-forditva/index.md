@@ -37,11 +37,14 @@ links:
   icon_pack: fas
   name: Finno-Ugric Data Sharing Space
   url: https://reprexbase.eu/fu/index.php?title=Main_Page
+- icon: slideshare
+  icon_pack: fab
+  name: Slides (in Hungarian)
+  url: danielantal.hu/hu/slides/20260525_pont_forditva/
 
 # Markdown Slides (optional).
 slides: ""
 ---
-
 
 
 On 27 May 2026, I will give a presentation at the Pont Fordítva workshop series at ELTE on multilingual archival infrastructures, translation, and metadata repair in Finno-Ugric cultural heritage collections.
